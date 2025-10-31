@@ -47,9 +47,16 @@ Install Required Libraries
 Make sure you have Python installed (>= 3.8), then install dependencies:
 
 pip install pandas matplotlib
+```
+### 2️⃣ Install Required Libraries
+```bash
+Make sure you have Python installed (>= 3.8), then install dependencies:
 
+pip install pandas matplotlib
+```
 ### 3️⃣ Run the Program
+```bash
 python personal_fitness_tracker.py
 
 
-If it’s your first run, the script will automatically create an empty **expenses.csv** file in the same directory.
+If it’s your first run, the script will automatically create an empty expenses.csv file in the same directory.
